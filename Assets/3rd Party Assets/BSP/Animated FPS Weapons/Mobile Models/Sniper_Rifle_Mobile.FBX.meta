@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 16f759e61d040374e923796c60006e90
+timeCreated: 1525118154
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bolt Handle
+    100002: Brass
+    100004: BSP_rig_Bolt
+    100006: BSP_rig_Brass
+    100008: BSP_rig_Bullet
+    100010: BSP_rig_Clip
+    100012: BSP_rig_Gun
+    100014: BSP_rig_Trigger
+    100016: Bullets
+    100018: FIRESPOT
+    100020: Magazine
+    100022: Rifle Body
+    100024: Scope
+    100026: SMOKE
+    100028: //RootNode
+    100030: Trigger
+    400000: Bolt Handle
+    400002: Brass
+    400004: BSP_rig_Bolt
+    400006: BSP_rig_Brass
+    400008: BSP_rig_Bullet
+    400010: BSP_rig_Clip
+    400012: BSP_rig_Gun
+    400014: BSP_rig_Trigger
+    400016: Bullets
+    400018: FIRESPOT
+    400020: Magazine
+    400022: Rifle Body
+    400024: Scope
+    400026: SMOKE
+    400028: //RootNode
+    400030: Trigger
+    2100000: Sniper_Rifle_Wood
+    2100002: Sniper_Rifle_Metal
+    2100004: Sniper_Rifle_Scope
+    4300000: Rifle Body
+    4300002: Brass
+    4300004: Bullets
+    4300006: Magazine
+    4300008: Bolt Handle
+    4300010: Trigger
+    4300012: Scope
+    9500000: //RootNode
+    13700000: Bolt Handle
+    13700002: Brass
+    13700004: Bullets
+    13700006: Magazine
+    13700008: Rifle Body
+    13700010: Scope
+    13700012: Trigger
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sniper_Rifle_Metal
+    second: {fileID: 2100000, guid: ab8a4a2b155c8aa44af4bbe7a3d97d70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sniper_Rifle_Scope
+    second: {fileID: 2100000, guid: c427297f6e4b8fa47839dec7892fb4d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sniper_Rifle_Wood
+    second: {fileID: 2100000, guid: c427297f6e4b8fa47839dec7892fb4d5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 827d23f19ce0dd744bed630a090b5cb5
+timeCreated: 1525118154
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brass
+    100002: BSP_rig_Brass
+    100004: BSP_rig_Element01
+    100006: BSP_rig_Element02
+    100008: BSP_rig_Gun
+    100010: BSP_rig_Slide_1
+    100012: BSP_rig_Slide_2
+    100014: BSP_rig_Slide_3
+    100016: BSP_rig_Trigger
+    100018: //RootNode
+    100020: FIRESPOT
+    100022: Folding Stock
+    100024: Folding Stock End
+    100026: Forend
+    100028: Loading Port
+    100030: Operating Handle
+    100032: Shotgun Body
+    100034: Sight
+    100036: SMOKE
+    100038: Trigger
+    400000: Brass
+    400002: BSP_rig_Brass
+    400004: BSP_rig_Element01
+    400006: BSP_rig_Element02
+    400008: BSP_rig_Gun
+    400010: BSP_rig_Slide_1
+    400012: BSP_rig_Slide_2
+    400014: BSP_rig_Slide_3
+    400016: BSP_rig_Trigger
+    400018: //RootNode
+    400020: FIRESPOT
+    400022: Folding Stock
+    400024: Folding Stock End
+    400026: Forend
+    400028: Loading Port
+    400030: Operating Handle
+    400032: Shotgun Body
+    400034: Sight
+    400036: SMOKE
+    400038: Trigger
+    2100000: Combat_Shotgun
+    2100002: Combat_Shotgun_Collimator
+    4300000: Shotgun Body
+    4300002: Folding Stock End
+    4300004: Folding Stock
+    4300006: Brass
+    4300008: Trigger
+    4300010: Forend
+    4300012: Loading Port
+    4300014: Operating Handle
+    4300016: Sight
+    9500000: //RootNode
+    13700000: Brass
+    13700002: Folding Stock
+    13700004: Folding Stock End
+    13700006: Forend
+    13700008: Loading Port
+    13700010: Operating Handle
+    13700012: Shotgun Body
+    13700014: Sight
+    13700016: Trigger
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combat_Shotgun
+    second: {fileID: 2100000, guid: d0dc44e2ef7116a44a53f9e0a0bcea5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Combat_Shotgun_Collimator
+    second: {fileID: 2100000, guid: 5ab1f06b4cafc934ca6e8967c68a3834, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

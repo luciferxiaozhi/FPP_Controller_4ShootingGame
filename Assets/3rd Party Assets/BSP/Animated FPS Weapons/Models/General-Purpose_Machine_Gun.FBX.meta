@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: b530f1af4fbe39a469c89f985440896e
+timeCreated: 1525030422
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BSP_rig_Bullet01
+    100002: BSP_rig_Bullet02
+    100004: BSP_rig_Clip
+    100006: BSP_rig_Clip_Flap
+    100008: BSP_rig_Flap
+    100010: BSP_rig_Gun
+    100012: BSP_rig_Slide
+    100014: BSP_rig_Switch
+    100016: BSP_rig_Trigger
+    100018: Bullet
+    100020: Bullets 1
+    100022: Bullets 2
+    100024: Carrying Handle
+    100026: Collimator
+    100028: Cover
+    100030: FIRESPOT
+    100032: //RootNode
+    100034: Magazine
+    100036: Magazine Flap
+    100038: Operating Handle
+    100040: SMOKE
+    100042: Trigger
+    100044: Weapon Body
+    400000: BSP_rig_Bullet01
+    400002: BSP_rig_Bullet02
+    400004: BSP_rig_Clip
+    400006: BSP_rig_Clip_Flap
+    400008: BSP_rig_Flap
+    400010: BSP_rig_Gun
+    400012: BSP_rig_Slide
+    400014: BSP_rig_Switch
+    400016: BSP_rig_Trigger
+    400018: Bullet
+    400020: Bullets 1
+    400022: Bullets 2
+    400024: Carrying Handle
+    400026: Collimator
+    400028: Cover
+    400030: FIRESPOT
+    400032: //RootNode
+    400034: Magazine
+    400036: Magazine Flap
+    400038: Operating Handle
+    400040: SMOKE
+    400042: Trigger
+    400044: Weapon Body
+    2100000: General-Purpose_Machine_Gun
+    2100002: General-Purpose_Machine_Gun_Collimator
+    4300000: Weapon Body
+    4300002: Magazine
+    4300004: Magazine Flap
+    4300006: Collimator
+    4300008: Cover
+    4300010: Bullets 1
+    4300012: Bullets 2
+    4300014: Bullet
+    4300016: Carrying Handle
+    4300018: Operating Handle
+    4300020: Trigger
+    9500000: //RootNode
+    13700000: Bullet
+    13700002: Bullets 1
+    13700004: Bullets 2
+    13700006: Carrying Handle
+    13700008: Collimator
+    13700010: Cover
+    13700012: Magazine
+    13700014: Magazine Flap
+    13700016: Operating Handle
+    13700018: Trigger
+    13700020: Weapon Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: General-Purpose_Machine_Gun
+    second: {fileID: 2100000, guid: 418cbfc1c1ca8ec4bb6cfe03cabfac3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: General-Purpose_Machine_Gun_Collimator
+    second: {fileID: 2100000, guid: 1ace7280e4b669c4b95ae66c2c56ecfb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
